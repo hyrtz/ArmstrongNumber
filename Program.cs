@@ -29,23 +29,12 @@ namespace ArmstrongNumber2 {
             int sum_of_num = num_power.Sum();
             
 
+            // comparing sum of power and input itself
             if (sum_of_num == num) {
                 Console.WriteLine("Armstrong Number");
             } else {
                 Console.WriteLine("Not Armstrong Number");
-            }
-            
-            // Console.WriteLine("Number sum: " + sum_of_num);            
+            }       
         }
     }
 }
-
-
-// add input validation 
-/*
-
-if input is  int 
-    execute 
-else 
-    prompt user for input again
-*/
