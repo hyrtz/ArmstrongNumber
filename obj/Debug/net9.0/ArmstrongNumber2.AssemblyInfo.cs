@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArmstrongNumber2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f0ef51fce2d61ae92ef0edeaafc900218241f81")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArmstrongNumber2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArmstrongNumber2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

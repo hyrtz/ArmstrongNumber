@@ -1,10 +1,10 @@
-﻿using System;
+using System;
 using System.Linq;
 
 // simple way of identifying if the int is Armstrong nunber or not 
 
 namespace ArmstrongNumber2 {
-    class Program {
+    class UsingFunction {
         static void Main(string[] args) {
 
             Console.WriteLine("Enter a number: ");  

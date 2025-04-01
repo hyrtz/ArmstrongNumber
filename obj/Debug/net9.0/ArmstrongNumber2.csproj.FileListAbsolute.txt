@@ -12,3 +12,4 @@
 /Users/e./Desktop/2nd_sem/AppDET/ArmstrongNumber/ArmstrongNumber2/ArmstrongNumber2/obj/Debug/net9.0/ArmstrongNumber2.pdb
 /Users/e./Desktop/2nd_sem/AppDET/ArmstrongNumber/ArmstrongNumber2/ArmstrongNumber2/obj/Debug/net9.0/ArmstrongNumber2.genruntimeconfig.cache
 /Users/e./Desktop/2nd_sem/AppDET/ArmstrongNumber/ArmstrongNumber2/ArmstrongNumber2/obj/Debug/net9.0/ref/ArmstrongNumber2.dll
+/Users/e./Desktop/2nd_sem/AppDET/ArmstrongNumber/ArmstrongNumber2/ArmstrongNumber2/obj/Debug/net9.0/ArmstrongNumber2.sourcelink.json
