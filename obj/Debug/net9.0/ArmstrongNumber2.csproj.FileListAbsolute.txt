@@ -1,0 +1,14 @@
+/Users/e./Desktop/2nd_sem/AppDET/ArmstrongNumber/ArmstrongNumber2/ArmstrongNumber2/bin/Debug/net9.0/ArmstrongNumber2
+/Users/e./Desktop/2nd_sem/AppDET/ArmstrongNumber/ArmstrongNumber2/ArmstrongNumber2/bin/Debug/net9.0/ArmstrongNumber2.deps.json
+/Users/e./Desktop/2nd_sem/AppDET/ArmstrongNumber/ArmstrongNumber2/ArmstrongNumber2/bin/Debug/net9.0/ArmstrongNumber2.runtimeconfig.json
+/Users/e./Desktop/2nd_sem/AppDET/ArmstrongNumber/ArmstrongNumber2/ArmstrongNumber2/bin/Debug/net9.0/ArmstrongNumber2.dll
+/Users/e./Desktop/2nd_sem/AppDET/ArmstrongNumber/ArmstrongNumber2/ArmstrongNumber2/bin/Debug/net9.0/ArmstrongNumber2.pdb
+/Users/e./Desktop/2nd_sem/AppDET/ArmstrongNumber/ArmstrongNumber2/ArmstrongNumber2/obj/Debug/net9.0/ArmstrongNumber2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/e./Desktop/2nd_sem/AppDET/ArmstrongNumber/ArmstrongNumber2/ArmstrongNumber2/obj/Debug/net9.0/ArmstrongNumber2.AssemblyInfoInputs.cache
+/Users/e./Desktop/2nd_sem/AppDET/ArmstrongNumber/ArmstrongNumber2/ArmstrongNumber2/obj/Debug/net9.0/ArmstrongNumber2.AssemblyInfo.cs
+/Users/e./Desktop/2nd_sem/AppDET/ArmstrongNumber/ArmstrongNumber2/ArmstrongNumber2/obj/Debug/net9.0/ArmstrongNumber2.csproj.CoreCompileInputs.cache
+/Users/e./Desktop/2nd_sem/AppDET/ArmstrongNumber/ArmstrongNumber2/ArmstrongNumber2/obj/Debug/net9.0/ArmstrongNumber2.dll
+/Users/e./Desktop/2nd_sem/AppDET/ArmstrongNumber/ArmstrongNumber2/ArmstrongNumber2/obj/Debug/net9.0/refint/ArmstrongNumber2.dll
+/Users/e./Desktop/2nd_sem/AppDET/ArmstrongNumber/ArmstrongNumber2/ArmstrongNumber2/obj/Debug/net9.0/ArmstrongNumber2.pdb
+/Users/e./Desktop/2nd_sem/AppDET/ArmstrongNumber/ArmstrongNumber2/ArmstrongNumber2/obj/Debug/net9.0/ArmstrongNumber2.genruntimeconfig.cache
+/Users/e./Desktop/2nd_sem/AppDET/ArmstrongNumber/ArmstrongNumber2/ArmstrongNumber2/obj/Debug/net9.0/ref/ArmstrongNumber2.dll

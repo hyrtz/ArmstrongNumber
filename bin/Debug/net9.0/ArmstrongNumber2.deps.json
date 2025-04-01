@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ArmstrongNumber2/1.0.0": {
+        "runtime": {
+          "ArmstrongNumber2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArmstrongNumber2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
